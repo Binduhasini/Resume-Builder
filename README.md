@@ -13,8 +13,5 @@ A simple web-based resume builder that generates a structured resume from user i
 - CSS
 - JavaScript
 
-##  Preview
-(Add screenshot here)
-
 ##  Project Status
 Completed (Frontend only)
